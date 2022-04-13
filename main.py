@@ -20,7 +20,7 @@ def GetNorm(sprite):
 class Cursor(sprite.Sprite):
     def __init__(self,cursor):
         super().__init__()
-        self.image = transform.scale(image.load("Sprites/"+cursor+".png"),(2,2)).convert_alpha().set_alpha(0)
+        self.image = transform.scale(image.load("Sprites/"+cursor+".png"),(2,2))
         self.rect = self.image.get_rect(center=mouse.get_pos())
         self.mask = mask.from_surface(self.image)
     def Render(self):
