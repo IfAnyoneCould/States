@@ -80,10 +80,10 @@ californiaData = State(["California"],["Capitol: Sacramento","Population: 524,94
 california = Object("California",californiaData)
 
 #colorado
-coloradoData = State(["Colorado"],["Capitol: Denver","Population: 715,522"],["Established in 1867","Rank in state: 1st"],["Lark Bunting","Calamospoza Melanocoryso"],["Rocky Mountain Columbine","flower genus"],["flower uses"],["Flag was adopted in 1964","The colors of the flag symbolize Colorado's geographical features","The gold symbolizes the states abundant sunshine","The white represents snow-capped mountains","The blue symbolizes clear blue skies","The red represents the color of much of the state's soil"])
-colorado = Object("Colorado",coloradoData)
-
-#connecticut
+coloradoData = State(["Colorado"],["Capitol: Denver","Population: 715,522"],["Established in 1867","Rank in state: 1st"],["Lark Bunting","Calamospoza Melanocoryso"],["Rocky Mountain Columbine","Columbine"],["Medicinal uses: Colorado columbine is the state flower of Colorado. All parts of the plant are poisonous if ingested.The seed was chewed, or an infusion of the root was used, to treat abdominal pains and general sickness by Native Americans. The seed was also used as a parasiticide to rid the hair of lice."],["Flag was adopted in 1964","The colors of the flag symbolize Colorado's geographical features","The gold symbolizes the states abundant sunshine","The white represents snow-capped mountains","The blue symbolizes clear blue skies","The red represents the color of much of the state's soil"])
+colorado = Object("Colorado",coloradoData)
+#connecData = ["Connecticut"],["Capitol: Hartford","Population: 121,054"],["Established in 1875","Rank in state: 29th"],["American robin","Turdus migratorius"],["Mountain Laurel","Genus: Kalmia"],["Medicinal uses:Mountain laurel is a plant. The fresh or dried leaves are used to make medicine.","People apply mountain laurel directly to the affected area to treat ringworm of the scalp (tinea capitis), psoriasis, herpes, and syphilis."],["Flag was adopted in 1964","The colors of the flag symbolize Colorado's geographical features","The gold symbolizes the states abundant sunshine","The white represents snow-capped mountains","The blue symbolizes clear blue skies","The red represents the color of much of the state's soil"])
+colorado = Object("Colorado",coloradoData)ut
 
 #delaware
 
@@ -103,15 +103,10 @@ idaho = Object("Idaho","test")
 
 #kansas
 
-#kentucky
-
-#loisiana
-
-#maine
-maine = Object("maine",maineData)
+#kent"maine#",maineData)
 #colorado
-maineData = State(["Maine"],["Capitol: Augusta","Population: 19,136"],["Established in 1832","Rank in state: 48th"],["Lark Buntingz","Calamospoza Melanocoryso"],["Rocky Mountain Columbine","flower genuso"],["flower uses"],["Flag was adopted in 1901","The colors of the flag symbolize Colorado's geographical features","The gold symbolizes the states abundant sunshine","The white represents snow-capped mountains","The blue symbolizes clear blue skies","The red represents the color of much of the state's soil"])
-colorado = Object("Colorado",coloradoData)
+maineData = State(["Maine"],["Capitol: Augusta","Population: 19,136"],["Established in 1832","Rank in statBlack-Capped Chickadeez","CPoecile atricapillus],[Pinus Genusin CoWhite pine has been used for generations as a natural herbal remedy.lowe"r genuso"],["flower uses"],[The current state flag was established in February 1909. Its coat of arms shows a moose-and-pine-tree emblem on a shield supported by a farmer and a sailor; a ribbon below bears the state name, and above is the North Star and the Latin m"f mainethe state'sMaine
+cmaine= Object("Colorado",coloradoData)
 #maryland
 
 #massachusetts
@@ -155,7 +150,7 @@ nevada = Object("Nevada","test")
 
 #south carolina
 
-#south dekota
+#south dvermontData = State(["Vermont"],["Capitol: Montpelier","Population: 7,855"],["Established in 1805","Rank in state: 50th"],["Lark Hermit thrushlamCatharus guttatusRockyRed CloveroweCloverfloweIT has been used to treat whooping cough,respiratory problems, and skin inflammations.Flag wAdopt in 1923. Multiple versions of the flag have been included throughout history. Originally, the flag was the same as the flag of the Green Mountain Boys.loravermontect("ColoraVermontravermontkota
 
 #tennessee
 
