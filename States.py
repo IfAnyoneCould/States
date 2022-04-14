@@ -81,8 +81,8 @@ california = Object("California",californiaData)
 
 #colorado
 coloradoData = State(["Colorado"],["Capitol: Denver","Population: 715,522"],["Established in 1867","Rank in state: 1st"],["Lark Bunting","Calamospoza Melanocoryso"],["Rocky Mountain Columbine","Columbine"],["Medicinal uses: Colorado columbine is the state flower of Colorado. All parts of the plant are poisonous if ingested.The seed was chewed, or an infusion of the root was used, to treat abdominal pains and general sickness by Native Americans. The seed was also used as a parasiticide to rid the hair of lice."],["Flag was adopted in 1964","The colors of the flag symbolize Colorado's geographical features","The gold symbolizes the states abundant sunshine","The white represents snow-capped mountains","The blue symbolizes clear blue skies","The red represents the color of much of the state's soil"])
-colorado = Object("Colorado",coloradoData)
-#connecData = ["Connecticut"],["Capitol: Hartford","Population: 121,054"],["Established in 1875","Rank in state: 29th"],["American robin","Turdus migratorius"],["Mountain Laurel","Genus: Kalmia"],["Medicinal uses:Mountain laurel is a plant. The fresh or dried leaves are used to make medicine.","People apply mountain laurel directly to the affected area to treat ringworm of the scalp (tinea capitis), psoriasis, herpes, and syphilis."],["Flag was adopted in 1964","The colors of the flag symbolize Colorado's geographical features","The gold symbolizes the states abundant sunshine","The white represents snow-capped mountains","The blue symbolizes clear blue skies","The red represents the color of much of the state's soil"])
+colorado = Object("Colorado",coloradoData))
+#connecData = State(["Connecticut"],["Capitol: Hartford","Population: 121,054"],["Established in 1875","Rank in state: 29th"]"["American robin","Turdus migratorius"],["Mountain Laurel","Genus: Kalmia"],["Medicinal uses:Mountain laurel is a plant. The fresh or dried leaves are used to make medicine.","People apply mountain laurel directly to the affected area to treat ringworm of the scalp (tinea capitis), psoriasis, herpes, and syphilis."],["Flag was adopted in 1897","The grape vines represent the three oldest settlements (Windsor, Wethersfield, and Hartford) (or possibly the three separate settlements, Connecticut Colony, Saybrook Colony, and New Haven Colony, which had been absorbed into Connecticut by that time).","Connecticut's motto, Qui Transtulit Sustinet, means He who transplanted continues to sustain."," It is an adaptation of Psalms , Chapter 79, verse 3, of the Latin Vulgate Version of the Bible. The background of Connecticut's flag is azure blue.","A white baroque shield is located in the center and has three green and purple grape vines.","The red represents the color of much of the state's soil"])
 colorado = Object("Colorado",coloradoData)ut
 
 #delaware
@@ -103,10 +103,9 @@ idaho = Object("Idaho","test")
 
 #kansas
 
-#kent"maine#",maineData)
-#colorado
-maineData = State(["Maine"],["Capitol: Augusta","Population: 19,136"],["Established in 1832","Rank in statBlack-Capped Chickadeez","CPoecile atricapillus],[Pinus Genusin CoWhite pine has been used for generations as a natural herbal remedy.lowe"r genuso"],["flower uses"],[The current state flag was established in February 1909. Its coat of arms shows a moose-and-pine-tree emblem on a shield supported by a farmer and a sailor; a ribbon below bears the state name, and above is the North Star and the Latin m"f mainethe state'sMaine
-cmaine= Object("Colorado",coloradoData)
+#maine
+maineData = State(["Maine"],["Capitol: Augusta","Population: 19,136"],["Established in 1832"],["Rank in statBlack-Capped Chickadeez"],["Poecile atricapillus"],["Pinus Genusin CoWhite pine has been used for generations as a natural herbal remedy.lower genuso"],["flower uses"],["The current state flag was established in February 1909. Its coat of arms shows a moose-and-pine-tree emblem on a shield supported by a farmer and a sailor; a ribbon below bears the state name, and above is the North Star and the Latin mf mainethe state'sMa"]
+maine= Object("Maine",maineData)
 #maryland
 
 #massachusetts
@@ -146,11 +145,8 @@ nevada = Object("Nevada","test")
 
 #pennsylvania
 
-#rhode island
-
-#south carolina
-
-#south dvermontData = State(["Vermont"],["Capitol: Montpelier","Population: 7,855"],["Established in 1805","Rank in state: 50th"],["Lark Hermit thrushlamCatharus guttatusRockyRed CloveroweCloverfloweIT has been used to treat whooping cough,respiratory problems, and skin inflammations.Flag wAdopt in 1923. Multiple versions of the flag have been included throughout history. Originally, the flag was the same as the flag of the Green Mountain Boys.loravermontect("ColoraVermontravermontkota
+#rhode isluutahData = State(["Utah"],["Capitol: Salt Lake City","Population: 199,723"],["Established in 1856","Rank in state: 22st"],["California Gull","Larus californicus"],["Sego Lily","Calochortus"],["When eaten, the palatability of the herbage is good for sheep and fair for cattle. Horses do not graze it. The bulbs are eaten, and also gathered and stored by pocket gophers and other rodents."],["According to the organization, the gold beehive represents Utah as the Beehive State and the state's motto of Industry. The star below the beehive represents Utah's statehood and joining of the Union in 1896, and the triangular saltire symbolizes Utah's moniker as the “Crossroads of the West.Adopted in 2011."])
+colorado = Object("Colorado",coloradoData)th dvermontData = State(["Vermont"],["Capitol: Montpelier","Population: 7,855"],["Established in 1805","Rank in state: 50th"],["Lark Hermit thrushlamCatharus guttatusRockyRed CloveroweCloverfloweIT has been used to treat whooping cough,respiratory problems, and skin inflammations.Flag wAdopt in 1923. Multiple versions of the flag have been included throughout history. Originally, the flag was the same as the flag of the Green Mountain Boys.loravermontect("ColoraVermontravermontkota
 
 #tennessee
 
