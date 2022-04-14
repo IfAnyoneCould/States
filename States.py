@@ -77,9 +77,9 @@ arkansasData = State(["Arkansass"],["Capitol: Little Rock","Population: 202,591"
 arkansas = Object("Arkansas",arkansasData)
 #california
 californiaData = State(["California"],["Capitol: Sacramento","Population: 524,943"],["Established in 1854","Rank in state: 9th"],["California quail","Callipepla californica"],["California poppy","Genus: Eschscholzia"],["Medicinal Uses:It is the state flower of California.","People use the parts that grow above the ground for medicine.","California poppy is used for trouble sleeping (insomnia), aches, nervous agitation, bed-wetting in children, and diseases of the bladder and liver. It is also used to promote relaxation."],["Flag was adopted in 1911","The bear on the flag represents the strength of the state.","The star represents sovereignty.","The red color signifies courage and the white background stands for purity."])
-colorado = Object("Colorado",californiaData)
+california = Object("California",californiaData)
 #colorado
-coloradoData = State(["Colorado"],["Capitol: Denver","Population: 715,522"],["Established in 1867","Rank in state: 5th"],["Lark Bunting","Calamospoza Melanocoryso"],["Rocky Mountain Columbine","flower genus"],["flower uses"],["Flag was adopted in 1964","The colors of the flag symbolize Colorado's geographical features","The gold symbolizes the states abundant sunshine","The white represents snow-capped mountains","The blue symbolizes clear blue skies","The red represents the color of much of the state's soil"])
+coloradoData = State(["Colorado"],["Capitol: Denver","Population: 715,522"],["Established in 1867","Rank in state: 1st"],["Lark Bunting","Calamospoza Melanocoryso"],["Rocky Mountain Columbine","flower genus"],["flower uses"],["Flag was adopted in 1964","The colors of the flag symbolize Colorado's geographical features","The gold symbolizes the states abundant sunshine","The white represents snow-capped mountains","The blue symbolizes clear blue skies","The red represents the color of much of the state's soil"])
 colorado = Object("Colorado",coloradoData)
 
 #connecticut
@@ -166,7 +166,7 @@ utah = Object("Utah","test")
 #vermont
 
 #virginia
-virginiaData = State(["Virginia"],["Capitol: Richmond","Population: 226,610"],["Established in 1867","Rank in state: 5th"],["Lark Bunting","Calamospoza Melanocoryso"],["Rocky Mountain Columbine","flower genus"],["flower uses"],["Flag was adopted in 1964","The colors of the flag symbolize Colorado's geographical features","The gold symbolizes the states abundant sunshine","The white represents snow-capped mountains","The blue symbolizes clear blue skies","The red represents the color of much of the state's soil"])
+virginiaData = State(["Virginia"],["Capitol: Richmond","Population: 226,610"],["Established in 1780","Rank in state: 19th"],["Northern Cardinal","Cardinalis cardinalis"],["American Dogwood","Cornus"],["flower uses"],["Flag was adopted in 1964","The colors of the flag symbolize Colorado's geographical features","The gold symbolizes the states abundant sunshine","The white represents snow-capped mountains","The blue symbolizes clear blue skies","The red represents the color of much of the state's soil"])
 colorado = Object("Colorado",coloradoData)
 #washington
 washingtonData = State(["Washington"],["Capitol: Olympia","Population: 46,478"],["Established in 1885","Rank in state: 38th"],["Willow goldfinch","Spinus tristis"],["Coast Rhododendron","Rhododendron L."],["Rhododendron is one of the naturally occurring plants which possess various health benefits, such as prevention and treatment of diseases associated with heart, dysentery, diarrhea, detoxification, inflammation, fever, constipation, bronchitis and asthma."],["Adopt 1923. The flag of Washington consists of the state seal, displaying an image of its namesake George Washington, on a field of dark green with gold fringe being optional. It is the only U.S. state flag with a field of green as well as the only state flag with the image of an American president."])
