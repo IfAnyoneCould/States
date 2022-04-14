@@ -76,9 +76,10 @@ arizona = Object("Arizona",arizonaData)
 arkansasData = State(["Arkansass"],["Capitol: Little Rock","Population: 202,591"],["Established in 1821","Rank in state: 21st"],["Northern mockingbird","Mimus polyglottoss"],["Apple Blossom","Genus: Apples"],["Medicinal uses: Apple blossoms are generally very high in antioxidants and important in ridding the body of free radicals. A tea of dried Apple blossoms may be consumed as a stress reliever, digestion aid or to clear complexion."],["Flag was adopted in 1913","The diamond represents Arkansas' status as the only diamond-bearing state in the Union.","25 of white stars around the border of the diamond represent Arkansas' position as the 25th state to join the Union.","The star above ARKANSAS represents the Confederacy.","The three stars on the bottom are for The three nations to which Arkansas has belonged (France, Spain, and the U.S.) The Louisiana Purchase, which brought Arkansas into the U.S was signed in 1803.","Arkansas was the third state (after Louisiana and Missouri) formed from the Louisiana Purchase"])
 arkansas = Object("Arkansas",arkansasData)
 #california
-
+californiaData = State(["California"],["Capitol: Sacramento","Population: 524,943"],["Established in 1854","Rank in state: 9th"],["California quail","Callipepla californica"],["California poppy","Genus: Eschscholzia"],["Medicinal Uses:It is the state flower of California.","People use the parts that grow above the ground for medicine.","California poppy is used for trouble sleeping (insomnia), aches, nervous agitation, bed-wetting in children, and diseases of the bladder and liver. It is also used to promote relaxation."],["Flag was adopted in 1911","The colors of the flag symbolize Colorado's geographical features","The gold symbolizes the states abundant sunshine","The white represents snow-capped mountains","The blue symbolizes clear blue skies","The red represents the color of much of the state's soil"])
+colorado = Object("Colorado",californiaData)
 #colorado
-coloradoData = State(["Colorado"],["Capitol: Denver","Population: 715,522"],["Established in 1867","Rank in state: 5th"],["Lark Buntingz","Calamospoza Melanocoryso"],["Rocky Mountain Columbine","flower genuso"],["flower uses"],["Flag was adopted in 1964","The colors of the flag symbolize Colorado's geographical features","The gold symbolizes the states abundant sunshine","The white represents snow-capped mountains","The blue symbolizes clear blue skies","The red represents the color of much of the state's soil"])
+coloradoData = State(["Colorado"],["Capitol: Denver","Population: 715,522"],["Established in 1867","Rank in state: 5th"],["Lark Bunting","Calamospoza Melanocoryso"],["Rocky Mountain Columbine","flower genus"],["flower uses"],["Flag was adopted in 1964","The colors of the flag symbolize Colorado's geographical features","The gold symbolizes the states abundant sunshine","The white represents snow-capped mountains","The blue symbolizes clear blue skies","The red represents the color of much of the state's soil"])
 colorado = Object("Colorado",coloradoData)
 
 #connecticut
@@ -106,7 +107,10 @@ idaho = Object("Idaho","test")
 #loisiana
 
 #maine
-
+maine = Object("maine",maineData)
+#colorado
+maineData = State(["Maine"],["Capitol: Augusta","Population: 19,136"],["Established in 1867","Rank in state: 5th"],["Lark Buntingz","Calamospoza Melanocoryso"],["Rocky Mountain Columbine","flower genuso"],["flower uses"],["Flag was adopted in 1964","The colors of the flag symbolize Colorado's geographical features","The gold symbolizes the states abundant sunshine","The white represents snow-capped mountains","The blue symbolizes clear blue skies","The red represents the color of much of the state's soil"])
+colorado = Object("Colorado",coloradoData)
 #maryland
 
 #massachusetts
@@ -164,9 +168,11 @@ utah = Object("Utah","test")
 #virginia
 
 #washington
-
+washingtonData = State(["Washington"],["Capitol: Olympia","Population: 46,478"],["Established in 1885","Rank in state: 38th"],["Willow goldfinch","Spinus tristis"],["Coast Rhododendron","Rhododendron L."],["Rhododendron is one of the naturally occurring plants which possess various health benefits, such as prevention and treatment of diseases associated with heart, dysentery, diarrhea, detoxification, inflammation, fever, constipation, bronchitis and asthma."],["Adopt 1923.
+The flag of Washington consists of the state seal, displaying an image of its namesake George Washington, on a field of dark green with gold fringe being optional. It is the only U.S. state flag with a field of green as well as the only state flag with the image of an American president."])
+washington = Object("Washington",washingtonData)
 #west virginia
-west_virginiaData = State(["West Virginia"],["Capitol: Charleston","Population: 51,400"],["Established in 1885","Rank in state: 38th"],["Northern cardinal","Cardinalis cardinalisa"],["Rhododendron","Rhododendrona"],["Medicinal uses:Rhododendron is one of the naturally occurring plants which possess various health benefits, such as prevention and treatment of diseases associated with heart, dysentery, diarrhea, detoxification, inflammation, fever, constipation, bronchitis and asthma."],["The current state flag of West Virginia consists of a pure white field bordered on four sides by a stripe of blue. The white of the field symbolizes purity, while the blue border represents the Union. Adopted in 1929.The present flag consists of a pure white field bordered by a blue stripe with the coat of arms of West Virginia in the center, wreathed by Rhododendron maximum and topped by an unfurled red ribbon reading, State of West Virginia. It is the only state flag to bear crossing rifles."])
+west_virginiaData = State(["West Virginia"],["Capitol: Charleston","Population: 51,400"],["Established in 1885","Rank in state: 38th"],["Northern cardinal","Cardinalis cardinalisa"],["Rhododendron","Rhododendron"],["Medicinal uses:Rhododendron is one of the naturally occurring plants which possess various health benefits, such as prevention and treatment of diseases associated with heart, dysentery, diarrhea, detoxification, inflammation, fever, constipation, bronchitis and asthma."],["The current state flag of West Virginia consists of a pure white field bordered on four sides by a stripe of blue. The white of the field symbolizes purity, while the blue border represents the Union. Adopted in 1929.The present flag consists of a pure white field bordered by a blue stripe with the coat of arms of West Virginia in the center, wreathed by Rhododendron maximum and topped by an unfurled red ribbon reading, State of West Virginia. It is the only state flag to bear crossing rifles."])
 west_virginia= Object("West Virginia",west_virginiaData)
 #wisconsin
 wisconsinData = State(["Wisconsin"],["Capitol: Madison","Population: 269,840"],["Established in 1838","Rank in state: 15th"],["American robin","Turdus migratoriusn"],["Wood Violet","Violetn"],["Violet is moist and cooling and the leaves ease inflammation, and when used externally, soothe skin irritations and swelling. It has an affinity for the lymphatic system and can promote healthy lymphatic function. "],["The tools of the important trades of the times lie within the shield: the symbols for agriculture (plow), mining (pick and shovel), manufacturing (arm and hammer), and navigation (anchor). The badger, which is the state animal, sits above the shield. It represents the name given to the lead miners ADOPTED IN 1848."])
