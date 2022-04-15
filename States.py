@@ -106,7 +106,8 @@ illinois = Object("Illinois",illinoisData)
 indianaData = State(["Indiana"],["Capitol: Indianapolis","Population: 887,642"],["Established in 1825","Rank in state: 1st"],["Northern cardinal","Cardinalis cardinalis"],["Peony","Paeonia"],["Medicinal uses: The roots are commonly used in Traditional Chinese Medicine for many purposes.","Peony might block chemicals that usually cause pain and swelling.","It might also prevent blood clotting, kill cancer cells, and act as an antioxidant."],["It was adopted in 1917","The torch stands for liberty and enlightenment;","the rays represent their far-reaching influence.","The thirteen stars in a circle represent the original thirteen states;","the five stars in the circle represent the next five states;","the large star is Indiana, the nineteenth state."])
 indiana = Object("Indiana",indianaData)
 #iowa
-
+iowaData = State(["Iowa"],["Capitol: Des Moines","Population: 214,133"],["Established in 1857","Rank in state: 1st"],["Eastern goldfinch","Spinus tristis"],["Wild Rose","genus rosa"],["Medicinal uses: The wild rose is great for deterring feral cats and wild dogs from attacking animals hiding within its thicket.","Wild Rose petals and rose hips are used by the Kumeyaay in food and tea.","An infusion of petals is given to babies with a fever."],["Was adopted in 1921","A vertical tricolor consisting of blue, white, red.","The center stripe is twice the width of the other two and contains an eagle holding a ribbon.","The flag consists of three vertical stripes: the blue stripe stands for loyalty, justice and truth;","the white stripe for purity; and the red stripe for courage."])
+iowa = Object("Iowa",iowaData)
 #kansas
 
 #kentucky
