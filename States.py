@@ -139,7 +139,8 @@ mississippi = Object("Mississippi",mississippiData)
 missouriData = State(["Missouri"],["Capitol: Jefferson City","Population: 43,079"],["Established in 1826","Rank in state: 1st"],["Eastern bluebird","Sialia sialis"],["White Hawthorn Blossom","Crataegus"],["Medicinal uses: Hawthorn is the oldest known medicinal plant.","The fruit, leaves, and flowers are typically used as a heart tonic, an astringent,","for muscle spasms, and for high blood pressure and high cholesterol."],["Adopted in 1913","The Oliver flag embraced national pride,","and at the same time expressed characteristics of Missouri and Missourians.","The three large stripes were symbolic of the people of the state—the blue stripe represented vigilance, permanency,","and justice, the red represented valor, and the white stripe symbolized purity."])
 missouri = Object("Missouri",missouriData)
 #montana
-
+montanaData = State(["Montana"],["Capitol: Helena","Population: 28,190"],["Established in 1875","Rank in state: 1st"],["Western meadowlark","Sturnella neglecta"],["Bitterroot","Bitterroot"],["Medicinal uses: Bitterroot can be chewed as a cure for toothaches and sore throats,","made into cough syrup, or placed on the hot stones in the sweatlodge to create a decongestant steam."],["Adopted in 1905","The state flag of Montana shall be a flag","having a blue field with a representation of the great seal of the state in the center","and with golden fringe along the upper and lower borders of the flag;","the same being the flag borne by the 1st Montana Infantry, U.S.V., in the Spanish-American War."])
+montana = Object("Montana",montanaData)
 #nebraska
 
 #nevada
