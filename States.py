@@ -154,7 +154,8 @@ new_hampshire= Object("New Hampshire",new_hampshireData)
 new_jerseyData = State(["New Jersey"],["Capitol: Trenton","Population: 84,913"],["Established in 1790","Rank in state: 1st"],["Eastern goldfinch","Spinus tristis"],["Blue Violet","Genus Viola"],["Medicinal uses: Violet is moist and cooling and the leaves ease inflammation,","and when used externally, soothe skin irritations and swelling."],["Adopted in 1896","The New Jersey State Flag was adopted in 1896. Its official color is buff,which is a yellowish-tan color.","The colors of the state flag, buff and dark blue (Jersey blue),","were the colors George Washington chose for the flag of New Jersey's army regiments during the Revolutionary War."])
 new_jersey = Object("New Jersey",new_jerseyData)
 #new mexico
-
+new_mexicoData = State(["New Mexico"],["Capitol: Santa Fe","Population: 67,947"],["Established in 1610","Rank in state: 1st"],["Greater roadrunner","Geococcyx californianus"],["Yucca","Yucca L"],["Medicinal uses: Yucca is used for osteoarthritis, high blood pressure,","migraine headaches, inflammation of the intestine , high cholesterol,","stomach disorders, diabetes, and liver and gallbladder disorders."],["Adopted in 1925","The red and gold (yellow) of old Spain.","The ancient Zia sun symbol in red on a field of yellow."])
+new_mexico = Object("New Mexico",new_mexicoData)
 #new york
 
 #north carolina
