@@ -160,7 +160,8 @@ new_mexico = Object("New Mexico",new_mexicoData)
 new_yorkData = State(["New York"],["Capitol: Albany","Population: 97,856"],["Established in 1797","Rank in state: 1st"],["Eastern bluebird","Sialia sialis"],["Rose","Rose"],["Medicinal uses: Rose petals are mildly sedative,","antiseptic, anti-inflammatory, and anti-parasitic."],["Adopted in 1901","The flag's design features the goddess Liberty holding a pole with a Liberty Cap on top.","Liberty stands for freedom. At her feet is a discarded crown,","representing freedom from England at the end of the revolutionary war.","On the right of the flag is the goddess, Justice."])
 new_york = Object("New York",new_yorkData)
 #north carolina
-
+north_carolinaData = State(["North Carolina"],["Capitol: Raleigh","Population: 467,665"],["Established in 1792","Rank in state: 1st"],["Northern cardinal","Cardinalis cardinalis"],["Dogwood","Cornus"],["Medicinal Uses: People use dogwood for headaches,","fatigue, fever,and ongoing diarrhea.","It is also used to increase strength, to stimulate appetite, and as a tonic.","Some people apply American dogwood directly to the skin for boils and wounds"],["Adopt in 1885","U.S. state flag consisting of a horizontal red stripe over a white stripe and,","at the hoist, a vertical blue stripe incorporating a white star,","the initials of the state (“NC”), and two ribbons.","There is an unsubstantiated reference to a North Carolina flag of the Revolutionary War era"])
+north_carolina = Object("North Carolina",north_carolinaData)
 #north dakota
 
 #ohio
