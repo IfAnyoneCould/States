@@ -151,7 +151,8 @@ nevada = Object("Nevada",nevadaData)
 new_hampshireData = State(["New Hampshire"],["Capitol: Concord","Population: 42,695"],["Established in 1808","Rank in state: 1st"],["Purple finch","Carpodacus purpureus"],["Pink Lady's Slipper","Slipper Orchids"],["Medicinal uses: The root of lady's slipper was used as a remedy for nervousness,","tooth pain, and muscle spasms."],[" Adopted in 1909","The state flag of New Hampshire is the state seal on a blue background.","The state seal is surrounded by a wreath of laurel leaves with nine stars interspersed.","The nine stars represent the 9th state to be admitted to the union.","The wreath is an ancient symbol of fame, honor, and victory."])
 new_hampshire= Object("New Hampshire",new_hampshireData)
 #new jersey
-
+new_jerseyData = State(["New Jersey"],["Capitol: Trenton","Population: 84,913"],["Established in 1790","Rank in state: 1st"],["Eastern goldfinch","Spinus tristis"],["Blue Violet","Genus Viola"],["Medicinal uses: Violet is moist and cooling and the leaves ease inflammation,","and when used externally, soothe skin irritations and swelling."],["Adopted in 1896","The New Jersey State Flag was adopted in 1896. Its official color is buff,which is a yellowish-tan color.","The colors of the state flag, buff and dark blue (Jersey blue),","were the colors George Washington chose for the flag of New Jersey's army regiments during the Revolutionary War."])
+new_jersey = Object("New Jersey",new_jerseyData)
 #new mexico
 
 #new york
