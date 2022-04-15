@@ -121,7 +121,8 @@ loisiana = Object("Loisiana",loisianaData)
 maineData = State(["Maine"],["Capitol: Augusta","Population: 197,191"],["Established in 1832","Rank in state: 12th"],["Black-Capped Chickadee","Poecile atricapillus"],["White Pine Cone and Tassel","pinus genus"],["Medicinal uses: White pine has been used for generations as a natural herbal remedy."],["Adopted in 1901","The current state flag was established in February 1909.","Its coat of arms shows a moose-and-pine-tree emblem on a shield supported by a farmer and a sailor;","a ribbon below bears the state name, and above is the North Star and the Latin motto “Dirigo” (“I direct”)."])
 maine = Object("Maine",maineData)
 #maryland
-
+marylandData = State(["Maryland"],["Capitol: Annapolis","Population: 38,394"],["Established in 1694","Rank in state: 1st"],["Baltimore oriole","Icterus galbula"],["Black-Eyed Susan","Coneflowers"],["Medicinal uses: The stem is an effective treatment for those suffering from high blood pressure,","and the entire plant treats ulcers and bodily swelling."],["Maryland's flag bears the arms of the Calvert and Crossland families.","Calvert was the family name of the Lords Baltimore who founded Maryland,","and their colors of gold and black appear in the first and fourth quarters of the flag.","Crossland was the family of the mother of George Calvert, first Lord Baltimore."])
+maryland = Object("Maryland",marylandData)
 #massachusetts
 
 #michigan
