@@ -124,7 +124,8 @@ maine = Object("Maine",maineData)
 marylandData = State(["Maryland"],["Capitol: Annapolis","Population: 38,394"],["Established in 1694","Rank in state: 1st"],["Baltimore oriole","Icterus galbula"],["Black-Eyed Susan","Coneflowers"],["Medicinal uses: The stem is an effective treatment for those suffering from high blood pressure,","and the entire plant treats ulcers and bodily swelling."],["Maryland's flag bears the arms of the Calvert and Crossland families.","Calvert was the family name of the Lords Baltimore who founded Maryland,","and their colors of gold and black appear in the first and fourth quarters of the flag.","Crossland was the family of the mother of George Calvert, first Lord Baltimore."])
 maryland = Object("Maryland",marylandData)
 #massachusetts
-
+massachusettsData = State(["Massachusetts"],["Capitol: Boston","Population: 675,647"],["Established in 1630","Rank in state: 1st"],["Black-capped chickadee","Poecile atricapilla"],["Mayflower","Epigaea Repens"],["Medicinal uses: The Mayflower is one of the most effective remedies for cystitis,","urethritis, prostatitis, bladder stones and","particularly acute catarrhal cystitis."],["Adopted in 1907","The shield depicts an Algonquian Native American with bow and arrow;","the arrow is pointed downward, signifying peace.","A white star with five points appears next to the figure's head, signifying Massachusetts as a U.S. state."])
+massachusetts = Object("Massachusetts",massachusettsData)
 #michigan
 
 #minnesota
