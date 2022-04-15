@@ -103,7 +103,8 @@ idaho = Object("Idaho",idahoData)
 illinoisData = State(["Illinois"],["Capitol: Springfield","Population: 114,394"],["Established in 1839","Rank in state: 1st"],["Northern cardinal","Cardinalis cardinalis"],["Violet","viola"],["Medicinal uses: Some people use sweet violet for respiratory tract conditions,","usually dry or sore throat, stuffy nose, coughs, hoarseness, and bronchitis.","Other uses include treating pain in the minor joints, fever, skin diseases, headache,","trouble sleeping (insomnia), and tuberculosis."],["Adopted on June 27, 1969.","The state's seal was based upon the design of the seal of the United States.","It features an eagle with a banner that has the state's motto: State Sovereignty, National Union.","It also features the date of 1818, which is when Illinois became a state."])
 illinois = Object("Illinois",illinoisData)
 #indiana
-
+indianaData = State(["Indiana"],["Capitol: Indianapolis","Population: 887,642"],["Established in 1825","Rank in state: 1st"],["Northern cardinal","Cardinalis cardinalis"],["Peony","Paeonia"],["Medicinal uses: The roots are commonly used in Traditional Chinese Medicine for many purposes.","Peony might block chemicals that usually cause pain and swelling.","It might also prevent blood clotting, kill cancer cells, and act as an antioxidant."],["It was adopted in 1917","The torch stands for liberty and enlightenment;","the rays represent their far-reaching influence.","The thirteen stars in a circle represent the original thirteen states;","the five stars in the circle represent the next five states;","the large star is Indiana, the nineteenth state."])
+indiana = Object("Indiana",indianaData)
 #iowa
 
 #kansas
