@@ -100,7 +100,8 @@ hawaii = Object("Hawaii",hawaiiData)
 idahoData = State(["Idaho"],["Capitol: Boise","Population: 235,684"],["Established in 1865","Rank in state: 1st"],["Mountain bluebird","Sialia currucoides"],["Syringa","lilac"],["Medicinal uses: The herbal tea from a Syringa,","is used against helminths, malaria, sore throat and fever.","The essential oil is applied to the skin for the treatment of various skin problems such as rashes, burns and wounds."],["The seal of the Territory of Idaho was adopted in 1863 and redrawn several times before statehood in 1890.","Idaho has a game law, which protects the elk and moose, and an elk's head rises above the shield.","The state flower, the wild syringa or mock orange, grows at the woman's feet,","while the ripened wheat grows as high as her shoulder.legislation specified that the flag was to be blue with the name of the state.","However, the legislation gave the Idaho Adjutant General control over the final design,","and it was suggested to honor the First Idaho Infantry by using their battle flag."])
 idaho = Object("Idaho",idahoData)
 #illinois
-
+illinoisData = State(["Illinois"],["Capitol: Springfield","Population: 114,394"],["Established in 1839","Rank in state: 1st"],["Northern cardinal","Cardinalis cardinalis"],["Violet","viola"],["Medicinal uses: Some people use sweet violet for respiratory tract conditions,","usually dry or sore throat, stuffy nose, coughs, hoarseness, and bronchitis.","Other uses include treating pain in the minor joints, fever, skin diseases, headache,","trouble sleeping (insomnia), and tuberculosis."],["Adopted on June 27, 1969.","The state's seal was based upon the design of the seal of the United States.","It features an eagle with a banner that has the state's motto: State Sovereignty, National Union.","It also features the date of 1818, which is when Illinois became a state."])
+illinois = Object("Illinois",illinoisData)
 #indiana
 
 #iowa
