@@ -175,7 +175,8 @@ oklahoma = Object("Oklahoma",oklahomaData)
 oregonData = State(["Oregon"],["Capitol: Salem","Population: 175,535"],["Established in 1859","Rank in state: 1st"],["Western meadowlark","Sturnella neglecta"],["Oregon Grape","Mahonia"],["Medicinal uses: Oregon grape is used for scaly, itchy skin (psoriasis),","eczema (atopic dermatitis), stomach problems, and other conditions"],["Adopted 1925","The front side of the flag has the escutcheon","– or shield – that is found on the state seal.","There are 33 stars surrounding the shield, which symbolizes Oregon's admission into the Union.","The date of 1859 is found below the shield,","and this was the year that Oregon achieved statehood."])
 oregon = Object("Oregon",oregonData)
 #pennsylvania
-
+pennsylvaniaData = State(["Pennsylvania"],["Capitol: Harrisburg","Population: 49,528"],["Established in 1812","Rank in state: 1st"],["Ruffed Grouse","Bonasa umbellus"],["Penngift Crownvetch","Coronilla"],["Medicinal uses: Coronilla varia has been used as a diuretic and cardio-tonic"],["Adopted in 1907","The Pennsylvania coat of arms features a shield crested by a North American bald eagle,","flanked by horses, and adorned with symbols of Pennsylvania's strengths","a ship carrying state commerce to all parts of the world; a clay-red plough,","a symbol of Pennsylvania's rich natural resources; and three golden sheaves."])
+pennsylvania = Object("Pennsylvania",pennsylvaniaData)
 #rhode island
 
 #south carolina
