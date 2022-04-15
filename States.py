@@ -172,7 +172,8 @@ ohio = Object("Ohio",ohioData)
 oklahomaData = State(["Oklahoma"],["Capitol: Oklahoma City","Population: 681,054"],["Established in 1910","Rank in state: 1st"],["Scissor-tailed flycatcher","Tyrannus forficatus"],["Mistletoe","Mistletoe"],["Medicinal uses: It has been used for hundreds of years to treat medical conditions such as epilepsy,","asthma, hypertension, headaches, menopausal symptoms,","infertility, dermatitis, arthritis, and rheumatism."],["Adopted 1925","U.S. state flag consisting of a blue field (background) with a bison-hide shield, an olive branch,","and a calumet (Native American peace pipe) above the name of the state in white lettering."])
 oklahoma = Object("Oklahoma",oklahomaData)
 #oregon
-
+oregonData = State(["Oregon"],["Capitol: Salem","Population: 175,535"],["Established in 1859","Rank in state: 1st"],["Western meadowlark","Sturnella neglecta"],["Oregon Grape","Mahonia"],["Medicinal uses: Oregon grape is used for scaly, itchy skin (psoriasis),","eczema (atopic dermatitis), stomach problems, and other conditions"],["Adopted 1925","The front side of the flag has the escutcheon","– or shield – that is found on the state seal.","There are 33 stars surrounding the shield, which symbolizes Oregon's admission into the Union.","The date of 1859 is found below the shield,","and this was the year that Oregon achieved statehood."])
+oregon = Object("Oregon",oregonData)
 #pennsylvania
 
 #rhode island
