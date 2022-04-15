@@ -112,7 +112,8 @@ iowa = Object("Iowa",iowaData)
 kansasData = State(["Kansas"],["Capitol: Topeka","Population: 126,587"],["Established in 1861","Rank in state: 1st"],["Western meadowlark","Sturnella neglecta"],["Wild Native Sunflower","Helianthus"],["Medicinal uses: The Wild Native Sunflower ranged from wart removal, sunstroke treatment, snake bite remedies,","body ointments, cauterization and healing of wounds, to treatment of chest pains."],["Adopted in 1927","The flag contains the state seal of Kansas,","the word KANSAS in yellow, a sunflower, and a yellow and blue bar.","The flag is full of symbolism. The gold and blue bar symbolizes that Kansas was part of the Louisiana Purchase.","When looked at closely, the state seal tells us much about Kansas in 1861."])
 kansas = Object("Kansas",kansasData)
 #kentucky
-
+kentuckyData = State(["Kentucky"],["Capitol: Frankfort","Population: 25,527"],["Established in 1793","Rank in state: 1st"],["Northern cardinal","Cardinalis cardinalis"],["Goldenrod","Solidago"],["Medicinal uses: Goldenrod has also been used to treat tuberculosis, diabetes,","enlargement of the liver, gout, hemorrhoids, internal bleeding,","asthma, and arthritis."],["1918 was the year it was adopted.","The flag of Kentucky features the state's seal.","The design of the seal features a pioneer and a statesman in an embrace.","It is believed by many that the pioneer is supposed to be Daniel Boone, while the statesman is Henry Clay.","However, officially, it is said that this image symbolizes all frontiersmen and statement.","The flag shows the State's (Commonwealth's) seal on navy blue, surrounded by the words ``Commonwealth of Kentucky” above and Sprays of goldenrod extend in a half circle around the picture which is Kentucky's state flower.","Kentucky state flag flying. The seal depicts a pioneer and a statesman embracing."])
+kentucky = Object("Kentucky",kentuckyData)
 #louisiana
 
 #maine
