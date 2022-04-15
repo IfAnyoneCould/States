@@ -148,7 +148,8 @@ nebraska = Object("Nebraska",nebraskaData)
 nevadaData = State(["Nevada"],["Capitol: Carson City","Population: 55,274"],["Established in 1861","Rank in state: 1st"],["Mountain bluebird","Sialia currucoides"],["Sagebrush","Mugworts"],["Medicinal uses: Sagebrush has been used for thousands of years for medicine,","ceremony, fiber, dye, and more.","Many tribes traditionally used sagebrush as a medicine to treat a variety of ailments including as a tea for stopping internal bleeding,","treating headaches and colds."],["Adopted in 1991.","The state flag of Nevada features a variant of the state's emblem located in the canton.","Broken down, the emblem contains a silver star, which symbolizes the nickname 'The Silver State.'","The flag also features the motto, 'Battle Born,' which references Nevada's statehood during the Civil War."])
 nevada = Object("Nevada",nevadaData)
 #new hampshire
-
+new_hampshireData = State(["New Hampshire"],["Capitol: Concord","Population: 42,695"],["Established in 1808","Rank in state: 1st"],["Purple finch","Carpodacus purpureus"],["Pink Lady's Slipper","Slipper Orchids"],["Medicinal uses: The root of lady's slipper was used as a remedy for nervousness,","tooth pain, and muscle spasms."],[" Adopted in 1909","The state flag of New Hampshire is the state seal on a blue background.","The state seal is surrounded by a wreath of laurel leaves with nine stars interspersed.","The nine stars represent the 9th state to be admitted to the union.","The wreath is an ancient symbol of fame, honor, and victory."])
+new_hampshire= Object("New Hampshire",new_hampshireData)
 #new jersey
 
 #new mexico
