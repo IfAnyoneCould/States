@@ -160,7 +160,8 @@ nevada = Object("Nevada",nevadaData)
 #north dakota
 
 #ohio
-
+ohioData = State(["Ohio"],["Capitol: Columbus","Population: 905,748"],["Established in 1816","Rank in state: 1st"],["Northern cardinal","Cardinalis cardinali"],["Red Carnation","Pink"],["Medicinal uses: Carnation is used for treating muscle spasms and improve heart health."],["Adopted 1902","The Ohio flag has three red and two white horizontal stripes.","At its staff end is a blue triangular field with the apex at the center of the middle red stripe.","There are 17 white, five-pointed stars grouped around a red disc superimposed upon a white circular O."])
+ohio = Object("Ohio",ohioData)
 #oklahoma
 
 #oregon
