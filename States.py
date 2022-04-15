@@ -127,7 +127,8 @@ maryland = Object("Maryland",marylandData)
 massachusettsData = State(["Massachusetts"],["Capitol: Boston","Population: 675,647"],["Established in 1630","Rank in state: 1st"],["Black-capped chickadee","Poecile atricapilla"],["Mayflower","Epigaea Repens"],["Medicinal uses: The Mayflower is one of the most effective remedies for cystitis,","urethritis, prostatitis, bladder stones and","particularly acute catarrhal cystitis."],["Adopted in 1907","The shield depicts an Algonquian Native American with bow and arrow;","the arrow is pointed downward, signifying peace.","A white star with five points appears next to the figure's head, signifying Massachusetts as a U.S. state."])
 massachusetts = Object("Massachusetts",massachusettsData)
 #michigan
-
+michiganData = State(["Michigan"],["Capitol: Lansing","Population: 112,644"],["Established in 1847","Rank in state: 1st"],["American robin","Turdus migratorius"],["Dwarf Lake Iris","Irises"],["Medicinal uses: None, since it is an endangered species of flowers"],["Adopted in 1911","The state coat of arms depicts a blue shield, upon which the sun rises over a lake and peninsula,","and a man with a raised hand representing peace and holding a long gun representing the fight for state and nation as a frontier state."])
+michigan = Object("Michigan",michiganData)
 #minnesota
 
 #mississippi
