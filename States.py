@@ -130,7 +130,8 @@ massachusetts = Object("Massachusetts",massachusettsData)
 michiganData = State(["Michigan"],["Capitol: Lansing","Population: 112,644"],["Established in 1847","Rank in state: 1st"],["American robin","Turdus migratorius"],["Dwarf Lake Iris","Irises"],["Medicinal uses: None, since it is an endangered species of flowers"],["Adopted in 1911","The state coat of arms depicts a blue shield, upon which the sun rises over a lake and peninsula,","and a man with a raised hand representing peace and holding a long gun representing the fight for state and nation as a frontier state."])
 michigan = Object("Michigan",michiganData)
 #minnesota
-
+minnesotaData = State(["Minnesota"],["Capitol: Saint Paul","Population: 311,527"],["Established in 1849","Rank in state: 1st"],["Common loon","Gavia immer"],["Pink & White Lady Slipper","Cypripedium"],["Medicinal uses: The root of lady's slipper was used as a remedy for nervousness,","tooth pain, and muscle spasms."],["Adopted in 1983","The star represents 'L'etoile du Nord' and Minnesota's natural wealth,","the blue background represents Minnesota's lakes and rivers,","the white represents winter, and the green represents farmland and forests.","The waves represent the name Minnesota, a Dakota word which means 'sky-tinted waters'."])
+minnesota = Object("Minnesota",minnesotaData)
 #mississippi
 
 #missouri
