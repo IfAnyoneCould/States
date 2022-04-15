@@ -109,7 +109,8 @@ indiana = Object("Indiana",indianaData)
 iowaData = State(["Iowa"],["Capitol: Des Moines","Population: 214,133"],["Established in 1857","Rank in state: 1st"],["Eastern goldfinch","Spinus tristis"],["Wild Rose","genus rosa"],["Medicinal uses: The wild rose is great for deterring feral cats and wild dogs from attacking animals hiding within its thicket.","Wild Rose petals and rose hips are used by the Kumeyaay in food and tea.","An infusion of petals is given to babies with a fever."],["Was adopted in 1921","A vertical tricolor consisting of blue, white, red.","The center stripe is twice the width of the other two and contains an eagle holding a ribbon.","The flag consists of three vertical stripes: the blue stripe stands for loyalty, justice and truth;","the white stripe for purity; and the red stripe for courage."])
 iowa = Object("Iowa",iowaData)
 #kansas
-
+kansasData = State(["Kansas"],["Capitol: Topeka","Population: 126,587"],["Established in 1861","Rank in state: 1st"],["Western meadowlark","Sturnella neglecta"],["Wild Native Sunflower","Helianthus"],["Medicinal uses: The Wild Native Sunflower ranged from wart removal, sunstroke treatment, snake bite remedies,","body ointments, cauterization and healing of wounds, to treatment of chest pains."],["Adopted in 1927","The flag contains the state seal of Kansas,","the word KANSAS in yellow, a sunflower, and a yellow and blue bar.","The flag is full of symbolism. The gold and blue bar symbolizes that Kansas was part of the Louisiana Purchase.","When looked at closely, the state seal tells us much about Kansas in 1861."])
+kansas = Object("Kansas",kansasData)
 #kentucky
 
 #louisiana
