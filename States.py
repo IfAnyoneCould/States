@@ -133,7 +133,8 @@ michigan = Object("Michigan",michiganData)
 minnesotaData = State(["Minnesota"],["Capitol: Saint Paul","Population: 311,527"],["Established in 1849","Rank in state: 1st"],["Common loon","Gavia immer"],["Pink & White Lady Slipper","Cypripedium"],["Medicinal uses: The root of lady's slipper was used as a remedy for nervousness,","tooth pain, and muscle spasms."],["Adopted in 1983","The star represents 'L'etoile du Nord' and Minnesota's natural wealth,","the blue background represents Minnesota's lakes and rivers,","the white represents winter, and the green represents farmland and forests.","The waves represent the name Minnesota, a Dakota word which means 'sky-tinted waters'."])
 minnesota = Object("Minnesota",minnesotaData)
 #mississippi
-
+mississippiData = State(["Mississippi"],["Capitol: Jackson","Population: 153,701"],["Established in 1822","Rank in state: 1st"],["Northern mockingbird","Mimus polyglottos"],["Coreopsis","Asteraceae"],["Medicinal uses: Native Indians have used this plant to treat several disorders,","including diarrhea, internal pain, and bleeding,","to strengthen blood and as an emetic"],["Adopted in 2021","The new state flag features a magnolia flower,","a symbol of hospitality, surrounded by 20 stars, signifying Mississippi's status as the 20th state in the union,","and a gold five-point star to reflect Mississippi's indigenous Native American tribes."])
+mississippi = Object("Mississippi",mississippiData)
 #missouri
 
 #montana
