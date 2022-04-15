@@ -137,8 +137,8 @@ maine = Object("Maine",maineData)
 #nebraska
 
 #nevada
-nevada = Object("Nevada","test")
-
+nevadaData = State(["Nevada"],["Capitol: Carson City","Population: 55,274"],["Established in 1861","Rank in state: 1st"],["Mountain bluebird","Sialia currucoides"],["Sagebrush","Mugworts"],["Medicinal uses: Sagebrush has been used for thousands of years for medicine,","ceremony, fiber, dye, and more.","Many tribes traditionally used sagebrush as a medicine to treat a variety of ailments including as a tea for stopping internal bleeding,","treating headaches and colds."],["Adopted in 1991.","The state flag of Nevada features a variant of the state's emblem located in the canton.","Broken down, the emblem contains a silver star, which symbolizes the nickname 'The Silver State.'","The flag also features the motto, 'Battle Born,' which references Nevada's statehood during the Civil War."])
+nevada = Object("Nevada",nevadaData)
 #new hampshire
 
 #new jersey
