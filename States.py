@@ -87,7 +87,8 @@ connecticut = Object("Connecticut",connecticutData)
 #delaware
 delawareData = State(["Delaware"],["Capitol: Denver","Population: 715,522"],["Established in 1867","Rank in state: 1st"],["Lark Bunting","Calamospoza Melanocoryso"],["Rocky Mountain Columbine","Columbine"],["Medicinal uses: Colorado columbine is the state flower of Colorado. All parts of the plant are poisonous if ingested.The seed was chewed, or an infusion of the root was used, to treat abdominal pains and general sickness by Native Americans. The seed was also used as a parasiticide to rid the hair of lice."],["Flag was adopted in 1964","The colors of the flag symbolize Colorado's geographical features","The gold symbolizes the states abundant sunshine","The white represents snow-capped mountains","The blue symbolizes clear blue skies","The red represents the color of much of the state's soil"])
 #florida
-
+floridaData = State(["Florida"],["Capitol: Tallahassee","Population: 196,169"],["Established in 1824","Rank in state: 1st"],["Northern mockingbird","Mimus polyglottos"],["Orange Blossom"," genus citrus"],["Medicinal uses: Reduces cortisol levels, lowers blood pressure,","improves menopausal symptoms, Reduces inflammation,","acts as an antimicrobial substance, exerts antispasmodic effects,","acts as an anticonvulsant."],["Was adopted in1868(modifications made in November 1900 and May 1985).","The Florida state flag's current design features diagonal red bars and the state seal","To art majors, it's a saltire, a heraldic symbol. To theologians, it's a St. Andrew's Cross,","named for the Christian apostle who was nailed upon it.","The seal features a brilliant sun, a cabbage palmetto tree,","a steamboat sailing and a Native American Seminole woman scattering flowers."])
+florida = Object("Florida",floridaData)
 #georgia
 
 #hawaii
