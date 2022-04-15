@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "States"
 version = "0.1.0"
-description = "States project for scholl"
+description = "States project for school"
 authors = ["Jonah, Nes'et, Yerassyl, Nicholas, Anhad"]
 
 [tool.poetry.dependencies]
