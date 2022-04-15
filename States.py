@@ -157,7 +157,8 @@ new_jersey = Object("New Jersey",new_jerseyData)
 new_mexicoData = State(["New Mexico"],["Capitol: Santa Fe","Population: 67,947"],["Established in 1610","Rank in state: 1st"],["Greater roadrunner","Geococcyx californianus"],["Yucca","Yucca L"],["Medicinal uses: Yucca is used for osteoarthritis, high blood pressure,","migraine headaches, inflammation of the intestine , high cholesterol,","stomach disorders, diabetes, and liver and gallbladder disorders."],["Adopted in 1925","The red and gold (yellow) of old Spain.","The ancient Zia sun symbol in red on a field of yellow."])
 new_mexico = Object("New Mexico",new_mexicoData)
 #new york
-
+new_yorkData = State(["New York"],["Capitol: Albany","Population: 97,856"],["Established in 1797","Rank in state: 1st"],["Eastern bluebird","Sialia sialis"],["Rose","Rose"],["Medicinal uses: Rose petals are mildly sedative,","antiseptic, anti-inflammatory, and anti-parasitic."],["Adopted in 1901","The flag's design features the goddess Liberty holding a pole with a Liberty Cap on top.","Liberty stands for freedom. At her feet is a discarded crown,","representing freedom from England at the end of the revolutionary war.","On the right of the flag is the goddess, Justice."])
+new_york = Object("New York",new_yorkData)
 #north carolina
 
 #north dakota
