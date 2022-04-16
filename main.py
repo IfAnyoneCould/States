@@ -9,12 +9,10 @@ select = True
 state = None
 def GetTrans(sprite):
     new = sprite
-    new.image.convert_alpha()
     new.image.set_alpha(100)
     return new
 def GetNorm(sprite):
     new = sprite
-    new.image.convert_alpha()
     new.image.set_alpha(255)
     return new
 class Cursor(sprite.Sprite):
@@ -36,6 +34,7 @@ class Cursor(sprite.Sprite):
                 if mouse.get_pressed()[0] == True:
                     global select, state
                     state = i.state
+                    state.Load()
                     select = False
             else:
                 allSprites.remove(i)
@@ -44,6 +43,8 @@ class Cursor(sprite.Sprite):
 running = True
 cursor = Cursor("cursor")
 offset = 0
+for i in allSprites:
+    i.image = i.image.convert_alpha()
 while running:
     win.fill((255,255,255))
     for i in event.get():
@@ -55,15 +56,14 @@ while running:
         allSprites.draw(win)
         cursor.Collide()
     else:
-        state.Load().Render(win)
+        state.Render(win)
         if key.get_pressed()[K_b]:
             select = True
-            state.birdSong.set_volume(0)
+            state.birdSong.stop()
+            state = None
         if key.get_pressed()[K_p]:
-            state.birdSong.set_volume(100)
             state.birdSong.play()
-        if key.get_pressed()[K_s]:
-            state.birdSong.set_volume(0)
+            state.birdSong.stop()
     cursor.Render()
     display.flip()
-    sleep(0.01)
+    sleep(0.02)
