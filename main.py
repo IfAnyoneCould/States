@@ -2,7 +2,8 @@ from States import *
 from pygame import *
 from time import sleep
 init()
-win = display.set_mode((960,600))
+flags = FULLSCREEN | DOUBLEBUF
+win = display.set_mode((960,600),flags)
 display.set_caption("States")
 states = []
 select = True
