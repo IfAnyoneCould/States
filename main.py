@@ -2,7 +2,7 @@ from States import *
 from pygame import *
 from time import sleep
 init()
-flags = FULLSCREEN | DOUBLEBUF
+flags = DOUBLEBUF
 win = display.set_mode((960,600),flags)
 display.set_caption("States")
 states = []
@@ -43,6 +43,7 @@ class Cursor(sprite.Sprite):
                 allSprites.add(i)
 running = True
 cursor = Cursor("cursor")
+clock = time.clock()
 offset = 0
 for i in allSprites:
     i.image = i.image.convert_alpha()
@@ -67,4 +68,4 @@ while running:
             state.birdSong.stop()
     cursor.Render()
     display.flip()
-    sleep(0.02)
+    clock.tick()
