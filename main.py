@@ -8,6 +8,7 @@ display.set_caption("States")
 states = []
 select = True
 state = None
+clock = time.Clock()
 def GetTrans(sprite):
     new = sprite
     new.image.set_alpha(100)
@@ -19,7 +20,8 @@ def GetNorm(sprite):
 class Cursor(sprite.Sprite):
     def __init__(self,cursor):
         super().__init__()
-        self.image = transform.scale(image.load("Sprites/"+cursor+".png"),(2,2))
+        self.image = transform.scale(image.load("Sprites/"+cursor+".png"),(2,2)).convert_alpha()
+        self.image.set_alpha(0)
         self.rect = self.image.get_rect(center=mouse.get_pos())
         self.mask = mask.from_surface(self.image)
     def Render(self):
@@ -43,7 +45,6 @@ class Cursor(sprite.Sprite):
                 allSprites.add(i)
 running = True
 cursor = Cursor("cursor")
-clock = time.clock()
 offset = 0
 for i in allSprites:
     i.image = i.image.convert_alpha()
@@ -65,7 +66,8 @@ while running:
             state = None
         if key.get_pressed()[K_p]:
             state.birdSong.play()
+        if key.get_pressed()[K_s]:
             state.birdSong.stop()
     cursor.Render()
-    display.flip()
     clock.tick()
+    display.flip()

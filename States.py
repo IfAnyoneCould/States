@@ -5,7 +5,7 @@ allSprites = sprite.Group([])
 offset = 0
 class text(sprite.Sprite):
     def __init__(self,text,x,y,fontsize):
-        self.font = font.SysFont('timesnewroman',fontsize)
+        self.font = font.SysFont('arial',fontsize)
         super().__init__()
         self.xpos,self.ypos = x,y
         self.text = []
@@ -50,11 +50,11 @@ class State():
         self.birdImg.image = transform.scale(image.load("Sprites/Birds/"+self.data[0][0]+".png"),(150,150)).convert()
         self.birdImg.rect = self.birdImg.image.get_rect(topleft=(25,450))
         self.birdSong = mixer.Sound("Sounds/"+self.data[0][0]+".mp3")
-        self.flower = text(self.data[4],500,375,30)
+        self.flower = text(self.data[4],400,375,30)
         self.flowerImg = sprite.Sprite()
         self.flowerImg.image = transform.scale(image.load("Sprites/Flowers/"+self.data[0][0]+".png"),(150,150)).convert()
-        self.flowerImg.rect = self.flowerImg.image.get_rect(topleft=(500,450))
-        self.flowerInfo = text(self.data[5],725,500,20)
+        self.flowerImg.rect = self.flowerImg.image.get_rect(topleft=(400,450))
+        self.flowerInfo = text(self.data[5],550,450,20)
         self.des = text(self.data[6],25,250,15)
         self.sprites.add(self.flag,self.birdImg,self.flowerImg)
         self.text.add(self.name,self.capitol,self.capInfo,self.bird,self.flower,self.flowerInfo,self.des)
